@@ -1,0 +1,16 @@
+{
+  "name": "Animal App",
+  "version": "1.0.0",
+  "description": "Simple Animal App",
+  "main": "app.js",
+  "scripts": {
+  	"Test": "echo \"Error: no test specified"
+  },
+  "dependencies": {
+  	"express":"*",
+  	"body-parser":"*",
+    "mongoose":"" 
+  },
+  "author": "Emiliyan Havin",
+  "license": "ISC"
+}
