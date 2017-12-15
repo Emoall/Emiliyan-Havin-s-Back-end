@@ -27,7 +27,7 @@ app.use(cors.actual)
 
 // Connect to Mongoose
 mongoose.connect ('mongodb://localhost/extinct animals');
-var db = mongoose.connection;
+var mongoose = mongoose.connection;
 
 var port = 3000;
 
